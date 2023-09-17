@@ -1,6 +1,8 @@
 # Heart-Disease-Prediction-using-Machine-learning
 
-## Model Comparison:
+## Implementation
+I have uploaded a single.ipynb file containing the complete code with proper comments and subheadings. I used Google Colab for writing and implementing the code.
+## Model Comparison
 
 ### Logistic Regression:
 * Accuracy: 0.6831
@@ -31,7 +33,7 @@ Decision Tree Classifier achieves an accuracy of 0.7058. It has low precision an
 KNN Classifier achieves an accuracy of 0.6621. It has relatively low precision for class 1 but higher recall, which suggests it is better at capturing true positive cases compared to Decision Tree.
 Summary and Comparison:
 
-### Summary
+## Summary
 * SVM has the highest accuracy among the models, but its F1-score for class 1 is relatively low, indicating room for improvement in capturing true positive cases.
 * Logistic Regression has a balanced recall and precision for class 1, indicating it can capture a good portion of actual positive cases.
 * Decision Tree Classifier has the lowest F1-score for class 1, suggesting it may not be the best choice for this task.
