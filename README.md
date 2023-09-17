@@ -36,4 +36,5 @@ Summary and Comparison:
 * Logistic Regression has a balanced recall and precision for class 1, indicating it can capture a good portion of actual positive cases.
 * Decision Tree Classifier has the lowest F1-score for class 1, suggesting it may not be the best choice for this task.
 * KNN Classifier has a higher recall but lower precision for class 1 compared to Logistic Regression, indicating that it captures more true positive cases but also generates more false positives.
+
 So as per the conclusion, the best suitable model for this task is **"Logistic Regression Model"**.
